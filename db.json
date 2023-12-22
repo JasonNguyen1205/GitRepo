@@ -7,5 +7,14 @@
   ],
   "profile": {
     "name": "typicode"
-  }
+  },"db": {
+    "sample":
+    [
+    {
+      "id": 1,
+      "picture": ""
+    }
+  ]
+}
+  
 }
