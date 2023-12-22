@@ -8,7 +8,7 @@
   "profile": {
     "name": "typicode"
   },
-  "db": {
+ 
     "sample":
     [
     {
@@ -16,6 +16,6 @@
       "picture": ""
     }
   ]
-}
+
   
 }
